@@ -1,4 +1,4 @@
-# Agentic RAG Corrective RAG (CRAG)
+# Agentic Corrective RAG (CRAG)
 ### Project Overview
 
 This project showcases a small and simple implementation of **[Corrective Retrieval Augmented Generation (CRAG)](https://arxiv.org/pdf/2401.15884)**  utilizing the Llama-Agent framework. The objective of this project is to enhance the robustness and accuracy of AI-generated responses by correcting potential retrieval errors in the standard Retrieval-Augmented Generation (RAG) process.
