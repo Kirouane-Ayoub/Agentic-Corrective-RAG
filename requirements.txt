@@ -1,0 +1,7 @@
+llama_agents==0.0.5
+duckduckgo_search==6.1.7
+llama-index==0.10.52
+llama-index-llms-cohere==0.2.0
+llama-index-embeddings-cohere==0.1.9
+llama-index-readers-file==0.1.27
+langchain_community==0.0.38
